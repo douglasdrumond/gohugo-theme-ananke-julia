@@ -1,19 +1,5 @@
 /* Put your custom styles here and run `npm start` from the "src" directory on */
 
-@font-face {
-  font-family: JuliaMono-Light;
-  /* src: url("https://cdn.jsdelivr.net/gh/cormullion/juliamono-webfonts/JuliaMono-Black.woff2"); */
-  src: url("https://cdn.jsdelivr.net/gh/cormullion/juliamono/webfonts/JuliaMono-Light.woff2");
-}
-
-.julia {
-  font-family: JuliaMono-Light, monospace;
-}
-
-code {
-  font-family: JuliaMono-Black, monospace;
-}
-
 #TableOfContents ul li {
   margin-bottom: 1em;
 }
@@ -32,4 +18,3 @@ code {
 .nested-links a{
   overflow-wrap: break-word;
 }
-
